@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkManager", "TaskManager\WorkManager.csproj", "{C2214297-6904-4042-92A3-45DB55972563}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkManager", "WorkManager\WorkManager.csproj", "{C2214297-6904-4042-92A3-45DB55972563}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

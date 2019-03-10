@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools">
+
+  <item
+      android:id="@+id/action_new"
+      android:enabled="true"
+      android:title="New"
+      android:icon="@drawable/add"
+      app:showAsAction="ifRoom" />
+  <item
+      android:id="@+id/action_in_progress"
+      android:enabled="true"
+      android:title="In Progress"
+      android:icon="@drawable/inprogress"
+      app:showAsAction="ifRoom" />
+  <item
+      android:id="@+id/action_completed"
+      android:enabled="true"
+      android:title="Completed"
+      android:icon="@drawable/completed"
+      app:showAsAction="ifRoom" />
+</menu>
